@@ -3,7 +3,7 @@
 **Turma:** 2026.29.09 
 ## Feito com: Unity 6 e C#
 ## Cenas Cenario3
- Sobre o projeto: Este projeto é um protótipo simples, onde o jogador movimenta o personagem em um cemitério, que precisa coletar itens para conversa pela ultima vez com o seu pai
+## Sobre o projeto: Este projeto é um protótipo simples, onde o jogador movimenta o personagem em um cemitério, que precisa coletar itens para conversa pela ultima vez com o seu pai
 ## O que o projeto faz: O jogador movimenta o personagem com as teclas WSAD, e quando ele encosta nos objetos, eles desaparecem. 
 ## O que o projeto contém  
 **Scripts:** CameraFollow: (A câmera segue a movimentação do personagem) , Coletavel: (E o código que conta oque foi coletado e ser coletado),  GerenciadorDoJogo: (E o código que atualiza os pontos coletados e orienta o TextMeshPro) , PlayerController: (E a movimentação do jogador), Rotator: (E o código em que faz o coletavel girar). 
